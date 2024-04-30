@@ -162,7 +162,7 @@ imgs_show(imgeo_sk,lbp_geo_sk)
 
 
 
-im_mig=mig[:,:,181]
+im_mig=mig[:,:,181] #image with channel
 
 
 in_img=im_mig
